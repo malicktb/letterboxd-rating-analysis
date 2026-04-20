@@ -1,0 +1,733 @@
+,Title,Year,Director,Genres,P(Liked)
+1,The Wagoner,1963,Ousmane Sembène,Drama,0.929
+2,Ceddo,1977,Ousmane Sembène,Drama,0.926
+3,The Young Girls of Rochefort,1967,Jacques Demy,Romance|Comedy|Drama,0.918
+4,Les Bonnes Femmes,1960,Claude Chabrol,Drama,0.91
+5,La Chinoise,1967,Jean-Luc Godard,Drama|Comedy,0.901
+6,Masculin Féminin,1966,Jean-Luc Godard,Drama|Romance,0.901
+7,Winter Sleep,2014,Nuri Bilge Ceylan,Drama,0.889
+8,Contempt,1963,Jean-Luc Godard,Drama|Romance,0.888
+9,Mandabi,1968,Ousmane Sembène,Comedy|Drama,0.888
+10,The Bride Wore Black,1968,François Truffaut,Crime|Drama|Mystery,0.884
+11,Guelwaar,1992,Ousmane Sembène,Drama,0.883
+12,The Wind Will Carry Us,1999,Abbas Kiarostami,Drama,0.882
+13,Network,1976,Sidney Lumet,Drama,0.881
+14,The Little Girl Who Sold the Sun,1999,Djibril Diop Mambéty,Drama,0.879
+15,Army of Shadows,1969,Jean-Pierre Melville,War|Drama|Thriller|History,0.873
+16,Brief Encounter,1945,David Lean,Drama|Romance,0.869
+17,A Woman Is a Woman,1961,Jean-Luc Godard,Comedy|Drama|Romance,0.865
+18,La Collectionneuse,1967,Éric Rohmer,Drama|Romance,0.864
+19,Blue Collar,1978,Paul Schrader,Drama|Crime,0.863
+20,Torment,1994,Claude Chabrol,Drama|Thriller,0.862
+21,The Last Metro,1980,François Truffaut,Drama|Romance|War,0.862
+22,"Life, and Nothing More…",1992,Abbas Kiarostami,Drama|Adventure,0.861
+23,About Dry Grasses,2023,Nuri Bilge Ceylan,Drama,0.86
+24,Le Doulos,1962,Jean-Pierre Melville,Drama|Thriller|Crime,0.859
+25,"Léon Morin, Priest",1961,Jean-Pierre Melville,Drama|Romance,0.857
+26,The Little Soldier,1963,Jean-Luc Godard,Drama|Romance,0.855
+27,The Elephant Man,1980,David Lynch,Drama|History,0.854
+28,Where Is the Friend's House?,1987,Abbas Kiarostami,Drama|Adventure,0.851
+29,A Grin Without a Cat,1977,Chris Marker,Documentary,0.851
+30,Notre Musique,2004,Jean-Luc Godard,Drama,0.851
+31,After Life,1998,Hirokazu Kore-eda,Fantasy|Drama,0.849
+32,Stalker,1979,Andrei Tarkovsky,Science Fiction|Drama,0.847
+33,Still Walking,2008,Hirokazu Kore-eda,Drama|Family,0.846
+34,Happy Hour,2015,Ryusuke Hamaguchi,Drama,0.846
+35,The Wind Rises,2013,Hayao Miyazaki,Animation|Drama|History|Romance,0.84
+36,A Scene at the Sea,1991,Takeshi Kitano,Drama|Romance|Comedy,0.837
+37,The Bridge on the River Kwai,1957,David Lean,Drama|History|War,0.836
+38,Kids Return,1996,Takeshi Kitano,Drama|Crime,0.833
+39,Nausicaä of the Valley of the Wind,1984,Hayao Miyazaki,Adventure|Animation|Fantasy,0.832
+40,Maborosi,1995,Hirokazu Kore-eda,Drama,0.83
+41,Psycho,1960,Alfred Hitchcock,Horror|Thriller|Mystery,0.829
+42,A Tale of Autumn,1998,Éric Rohmer,Drama|Romance,0.823
+43,Twin Peaks,1989,David Lynch,Mystery|Drama|Thriller,0.818
+44,Le Cercle Rouge,1970,Jean-Pierre Melville,Crime|Thriller,0.814
+45,Pauline at the Beach,1983,Éric Rohmer,Drama|Romance|Comedy,0.808
+46,Sans Soleil,1983,Chris Marker,Documentary,0.806
+47,Terrorizers,1986,Edward Yang,Drama|Crime|Mystery|Thriller,0.794
+48,BlacKkKlansman,2018,Spike Lee,Crime|Comedy|Drama|History,0.783
+49,Straight Outta Compton,2015,F. Gary Gray,Drama|Music|History,0.78
+50,Eraserhead,1977,David Lynch,Horror|Science Fiction,0.771
+51,I Am Not a Witch,2017,Rungano Nyoni,Drama,0.767
+52,N'Diangane,1975,Mahama Traoré,Drama,0.761
+53,Je Tu Il Elle,1974,Chantal Akerman,Drama,0.759
+54,The Man Who Sleeps,1974,Bernard Queysanne,Drama,0.755
+55,Daisies,1966,Věra Chytilová,Comedy|Drama,0.753
+56,Level Five,1997,Chris Marker,Documentary|War|Science Fiction,0.752
+57,The Red Balloon,1956,Albert Lamorisse,Comedy|Drama|Family|Fantasy,0.751
+58,"Toula, or the Genie of the Water",1973,Moustapha Alassane,Drama|Fantasy,0.751
+59,The Boy and the Heron,2023,Hayao Miyazaki,Animation|Adventure|Fantasy|Drama|Family,0.751
+60,Theorem,1968,Pier Paolo Pasolini,Mystery|Drama,0.746
+61,Z,1969,Costa-Gavras,Thriller|Crime|Drama,0.746
+62,The Round-Up,1966,Miklós Jancsó,Drama|History|War,0.745
+63,Little by Little,1970,Jean Rouch,Comedy|Drama,0.745
+64,The Passion of Joan of Arc,1928,Carl Theodor Dreyer,Drama|History,0.744
+65,The Pianist,2002,Roman Polanski,Drama|War,0.743
+66,The Golden Thread,1965,Ritwik Ghatak,Drama,0.742
+67,Elevator to the Gallows,1958,Louis Malle,Crime|Drama|Thriller,0.742
+68,Red Desert,1964,Michelangelo Antonioni,Drama,0.741
+69,"Je T'Aime, Je T'Aime",1968,Alain Resnais,Drama|Science Fiction,0.741
+70,Rashomon,1950,Akira Kurosawa,Crime|Drama|Mystery,0.741
+71,Purple Noon,1960,René Clément,Crime|Drama|Thriller,0.74
+72,My Little Loves,1974,Jean Eustache,Drama,0.74
+73,25th Hour,2002,Spike Lee,Crime|Drama,0.74
+74,Inside Man,2006,Spike Lee,Crime|Drama|Thriller,0.739
+75,Autumn Sonata,1978,Ingmar Bergman,Drama,0.736
+76,An Autumn Afternoon,1962,Yasujirō Ozu,Drama,0.735
+77,Charulata,1964,Satyajit Ray,Drama|Romance,0.733
+78,The Color of Pomegranates,1969,Sergei Parajanov,Drama|History,0.73
+79,The Spirit of the Beehive,1973,Víctor Erice,Drama|Fantasy,0.73
+80,The Holy Mountain,1973,Alejandro Jodorowsky,Drama,0.729
+81,The Age of the Earth,1980,Glauber Rocha,Drama|Fantasy|History,0.729
+82,Muna Moto,1975,Jean-Pierre Dikongué-Pipa,Drama|Romance,0.728
+83,The Fire Within,1963,Louis Malle,Drama,0.727
+84,Mandala,1971,Akio Jissoji,Drama,0.727
+85,The Harder They Come,1972,Perry Henzell,Crime|Drama|Music,0.726
+86,The Conformist,1970,Bernardo Bertolucci,Drama,0.726
+87,Demons,1971,Toshio Matsumoto,Horror|Drama,0.726
+88,Pastoral: To Die in the Country,1974,Shūji Terayama,Fantasy|Drama,0.725
+89,The Gospel According to St. Matthew,1964,Pier Paolo Pasolini,Drama,0.725
+90,In the Heat of the Night,1967,Norman Jewison,Crime|Drama|Mystery|Thriller,0.724
+91,The Sicilian Clan,1969,Henri Verneuil,Crime|Drama,0.724
+92,Rocky,1976,John G. Avildsen,Drama,0.723
+93,Black Orpheus,1959,Marcel Camus,Drama|Romance,0.723
+94,Hiroshima Mon Amour,1959,Alain Resnais,Drama|History|Romance,0.722
+95,Letter from My Village,1976,Safi Faye,Drama|Documentary,0.721
+96,Floating Weeds,1959,Yasujirō Ozu,Drama,0.721
+97,Nights of Cabiria,1957,Federico Fellini,Drama,0.721
+98,Top of the Heap,1972,Christopher St. John,Crime|Drama,0.721
+99,The Battle of Algiers,1966,Gillo Pontecorvo,Drama|War|History,0.72
+100,The Red and the White,1967,Miklós Jancsó,War|Drama,0.719
+101,The Swimming Pool,1969,Jacques Deray,Drama|Thriller,0.717
+102,God's Gift,1982,Gaston Kaboré,Drama,0.717
+103,Quilombo,1984,Carlos Diegues,History|Drama,0.716
+104,Mishima: A Life in Four Chapters,1985,Paul Schrader,Drama,0.716
+105,The Ballad of Narayama,1958,Keisuke Kinoshita,Drama,0.715
+106,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,Adventure|Western|Crime|Drama|History,0.714
+107,Edvard Munch,1974,Peter Watkins,TV Movie|History|Drama,0.714
+108,The Ascent,1977,Larisa Shepitko,Drama|War|History,0.713
+109,Black and White in Color,1976,Jean-Jacques Annaud,Drama|Comedy|War,0.713
+110,Soul in the Eye,1973,Zózimo Bulbul,Drama|History,0.713
+111,A Nation is Born,1961,Paulin Soumanou Vieyra,Documentary,0.713
+112,The Night of the Hunter,1955,Charles Laughton,Crime|Drama|Thriller,0.712
+113,Citizen Kane,1941,Orson Welles,Mystery|Drama,0.712
+114,"Throw Away Your Books, Rally in the Streets",1971,Shūji Terayama,Drama,0.712
+115,Africa on the Seine,1955,Paulin Soumanou Vieyra,Documentary,0.711
+116,Yojimbo,1961,Akira Kurosawa,Drama|Thriller,0.71
+117,"I, a Negro",1959,Jean Rouch,Documentary,0.709
+118,Wild Strawberries,1957,Ingmar Bergman,Drama,0.709
+119,Midnight Cowboy,1969,John Schlesinger,Drama,0.708
+120,Sambizanga,1972,Sarah Maldoror,Drama,0.708
+121,Persona,1966,Ingmar Bergman,Drama,0.707
+122,The Mother and the Whore,1973,Jean Eustache,Drama|Romance,0.707
+123,The Face of Another,1966,Hiroshi Teshigahara,Drama|Science Fiction,0.706
+124,Bush Mama,1979,Haile Gerima,Drama,0.705
+125,The Conversation,1974,Francis Ford Coppola,Crime|Drama|Mystery,0.705
+126,La Notte,1961,Michelangelo Antonioni,Drama|Romance,0.705
+127,Come and Work,1979,Safi Faye,Documentary,0.704
+128,Agatha and the Limitless Readings,1981,Marguerite Duras,Drama|Romance,0.704
+129,The Wind,1982,Souleymane Cissé,Drama,0.704
+130,Siberiade,1979,Andrei Konchalovsky,War|Drama|History|Romance,0.703
+131,"Aguirre, the Wrath of God",1972,Werner Herzog,History|Adventure|Drama,0.703
+132,Bicycle Thieves,1948,Vittorio De Sica,Drama,0.703
+133,The Seventh Seal,1957,Ingmar Bergman,Fantasy|Drama,0.703
+134,PlayTime,1967,Jacques Tati,Comedy,0.702
+135,La Région Centrale,1971,Michael Snow,Documentary,0.702
+136,The Society of the Spectacle,1974,Guy Debord,Documentary,0.702
+137,Le Bonheur,1965,Agnès Varda,Drama|Romance,0.702
+138,Afrique 50,1950,René Vautier,Documentary,0.701
+139,Death by Hanging,1968,Nagisa Ōshima,Comedy|Drama,0.701
+140,The House Is Black,1963,Forugh Farrokhzad,Documentary,0.7
+141,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",1975,Chantal Akerman,Drama,0.7
+142,Fill 'er Up with Super,1976,Alain Cavalier,Comedy,0.697
+143,Class Relations,1984,Danièle Huillet,Drama,0.695
+144,Last Year at Marienbad,1961,Alain Resnais,Drama|Romance,0.694
+145,Castle in the Sky,1986,Hayao Miyazaki,Adventure|Fantasy|Animation|Action|Family,0.694
+146,Apur Sansar,1959,Satyajit Ray,Drama,0.694
+147,Ikiru,1952,Akira Kurosawa,Drama,0.693
+148,Chronicle of a Summer,1961,Jean Rouch,Documentary,0.693
+149,One Flew Over the Cuckoo's Nest,1975,Miloš Forman,Drama,0.693
+150,Manila in the Claws of Light,1975,Lino Brocka,Drama|Mystery,0.693
+151,Crooks in Clover,1963,Georges Lautner,Comedy|Crime,0.692
+152,Killer of Sheep,1978,Charles Burnett,Drama,0.692
+153,"Black God, White Devil",1964,Glauber Rocha,Adventure|Western|Drama,0.689
+154,All the President's Men,1976,Alan J. Pakula,Drama|Mystery|Thriller,0.689
+155,Tokyo Twilight,1957,Yasujirō Ozu,Drama,0.689
+156,Weekend,1967,David McNeil,,0.689
+157,Lamb,1963,Paulin Soumanou Vieyra,Documentary,0.689
+158,It's a Wonderful Life,1946,Frank Capra,Drama|Family|Fantasy,0.689
+159,High Noon,1952,Fred Zinnemann,Western|Drama|Thriller,0.688
+160,Nothing But a Man,1964,Michael Roemer,Drama|Romance,0.685
+161,Opening Night,1977,John Cassavetes,Drama,0.685
+162,The Bad Sleep Well,1960,Akira Kurosawa,Crime|Drama|Thriller,0.685
+163,The Long Goodbye,1973,Robert Altman,Mystery|Drama|Crime,0.684
+164,Metropolis,1927,Fritz Lang,Drama|Science Fiction,0.684
+165,A Different Image,1982,Alile Sharon Larkin,Drama,0.683
+166,A Nos Amours,1983,Maurice Pialat,Drama|Romance,0.683
+167,"Bashu, the Little Stranger",1989,Bahram Beyzai,Drama|War,0.682
+168,Those Whom Death Refused,1988,Flora Gomes,Drama|War,0.682
+169,Gone with the Wind,1939,Victor Fleming,Drama|War|Romance,0.682
+170,Mo' Better Blues,1990,Spike Lee,Drama|Music,0.682
+171,Badlands,1973,Terrence Malick,Crime|Drama|Romance,0.681
+172,Céline and Julie Go Boating,1974,Jacques Rivette,Comedy|Drama|Fantasy,0.681
+173,Children of Paradise,1945,Marcel Carné,Drama|Romance,0.68
+174,Cabaret,1972,Bob Fosse,Music|Romance|Drama,0.679
+175,Samba Traoré,1992,Idrissa Ouedraogo,Drama,0.678
+176,Kes,1969,Ken Loach,Drama,0.678
+177,Twilight,1990,György Fehér,Crime|Drama|Mystery,0.678
+178,Losing Ground,1982,Kathleen Collins,Comedy|Drama,0.678
+179,Yaaba,1989,Idrissa Ouedraogo,Family|Drama,0.677
+180,The Story of a Three-Day Pass,1967,Melvin Van Peebles,Drama|Romance,0.677
+181,In Praise of Love,2001,Jean-Luc Godard,Drama,0.676
+182,Babylon,1980,Franco Rosso,Drama,0.676
+183,Fantastic Planet,1973,René Laloux,Animation|Science Fiction,0.675
+184,McCabe & Mrs. Miller,1971,Robert Altman,Western|Drama,0.673
+185,Clockers,1995,Spike Lee,Crime|Drama|Mystery,0.673
+186,Funeral Parade of Roses,1969,Toshio Matsumoto,Drama,0.672
+187,Black Panthers,1968,Agnès Varda,Documentary,0.672
+188,Punishment Park,1971,Peter Watkins,Drama|Thriller,0.671
+189,La Dolce Vita,1960,Federico Fellini,Comedy|Drama,0.67
+190,Blade Runner,1982,Ridley Scott,Science Fiction|Drama|Thriller,0.67
+191,We Won't Grow Old Together,1972,Maurice Pialat,Romance|Drama,0.67
+192,Tokyo Story,1953,Yasujirō Ozu,Drama,0.669
+193,My Brother's Wedding,1983,Charles Burnett,Drama,0.668
+194,Crooklyn,1994,Spike Lee,Comedy|Drama,0.668
+195,The Graduate,1967,Mike Nichols,Drama|Romance|Comedy,0.666
+196,The Strategy of the Snail,1993,Sergio Cabrera,Comedy|Drama,0.666
+197,"Merry Christmas, Mr. Lawrence",1983,Nagisa Ōshima,Drama|History|War,0.665
+198,House,1977,Nobuhiko Obayashi,Comedy|Fantasy|Horror,0.665
+199,Le Trou,1960,Jacques Becker,Drama|Thriller|Crime,0.663
+200,Rocking Poponguine,1994,Moussa Sène Absa,Comedy|Drama|Music,0.661
+201,West Side Story,1961,Robert Wise,Crime|Drama|Romance,0.66
+202,The Wages of Fear,1953,Henri-Georges Clouzot,Drama|Thriller|Adventure,0.66
+203,Dead Presidents,1995,Albert Hughes,Crime|Drama|Action,0.66
+204,Sonatine,1993,Takeshi Kitano,Action|Crime|Thriller,0.659
+205,The Silence of the Lambs,1991,Jonathan Demme,Crime|Thriller|Drama,0.659
+206,Born in Flames,1983,Lizzie Borden,Drama|Science Fiction,0.658
+207,Charade,1963,Stanley Donen,Comedy|Mystery|Romance,0.656
+208,The Time to Live and the Time to Die,1985,Hou Hsiao-hsien,Drama,0.655
+209,Three Colours: Blue,1993,Krzysztof Kieślowski,Drama,0.655
+210,News from Home,1976,Chantal Akerman,Documentary,0.652
+211,Harlan County U.S.A.,1976,Barbara Kopple,Documentary,0.652
+212,Mapantsula,1988,Oliver Schmitz,Crime|Drama,0.652
+213,Hearts and Minds,1974,Peter Davis,Documentary|War,0.652
+214,Work,1978,Virke Lehtinen,,0.651
+215,The Urban Crisis and the New Militants: Module 6 - Black Moderates and Black Militants,1969,,Documentary,0.65
+216,Cairo as Told by Youssef Chahine,1991,Youssef Chahine,Documentary,0.649
+217,Some Like It Hot,1959,Billy Wilder,Comedy|Romance|Crime,0.649
+218,Too Early / Too Late,1981,Jean-Marie Straub,Documentary,0.648
+219,"The Good, the Bad and the Ugly",1966,Sergio Leone,Western,0.647
+220,Yeelen,1987,Souleymane Cissé,Drama|Fantasy,0.647
+221,Decalogue I,1989,Krzysztof Kieślowski,Drama|TV Movie|Romance,0.647
+222,A Woman Under the Influence,1974,John Cassavetes,Drama|Romance,0.645
+223,A Moment of Innocence,1996,Mohsen Makhmalbaf,Drama|Comedy,0.645
+224,Raise the Red Lantern,1991,Zhang Yimou,Drama,0.644
+225,Symbiopsychotaxiplasm: Take One,1968,William Greaves,Documentary,0.643
+226,Buud Yam,1997,Gaston Kaboré,History|Drama,0.642
+227,Fist of Fury,1972,Lo Wei,Drama|Action|Thriller,0.642
+228,Twenty Years of African Cinema,1983,Férid Boughedir,Documentary,0.641
+229,Mossane,1996,Safi Faye,Drama,0.641
+230,Suspiria,1977,Dario Argento,Horror,0.638
+231,Woman in the Dunes,1964,Hiroshi Teshigahara,Drama|Thriller,0.635
+232,Grave of the Fireflies,1988,Isao Takahata,Animation|Drama|War,0.635
+233,The South,1988,Richard Woolley,Drama,0.634
+234,To Sleep with Anger,1990,Charles Burnett,Drama,0.634
+235,Children of Heaven,1997,Majid Majidi,Drama|Family,0.633
+236,Sorcerer,1977,William Friedkin,Thriller|Adventure|Drama,0.633
+237,Cinema Paradiso,1988,Giuseppe Tornatore,Drama|Romance,0.633
+238,Twin Peaks: Fire Walk with Me,1992,David Lynch,Drama|Mystery|Horror,0.633
+239,Over the Garden Wall,2014,John Daumery,Music|Comedy|Romance,0.633
+240,The Double Life of Véronique,1991,Krzysztof Kieślowski,Drama|Fantasy,0.633
+241,Tampopo,1985,Jūzō Itami,Comedy,0.632
+242,Blazing Saddles,1974,Mel Brooks,Western|Comedy,0.629
+243,Watermelon Man,1970,Melvin Van Peebles,Comedy,0.628
+244,One False Move,1991,Carl Franklin,Crime|Drama|Thriller,0.628
+245,Boyz n the Hood,1991,John Singleton,Crime|Drama,0.627
+246,The Match Factory Girl,1990,Aki Kaurismäki,Drama,0.626
+247,Down by Law,1986,Jim Jarmusch,Crime|Drama|Comedy,0.625
+248,Shanghai Blues,1984,Tsui Hark,Comedy|Romance,0.624
+249,My Left Foot: The Story of Christy Brown,1989,Jim Sheridan,Drama,0.624
+250,Personal Problems,1980,Bill Gunn,Drama,0.624
+251,The Price of Forgiveness,2001,Mansour Sora Wade,Drama,0.623
+252,Sankofa,1993,Haile Gerima,Drama|Fantasy|History|Science Fiction,0.623
+253,Bad Boy Bubby,1993,Rolf de Heer,Crime|Drama|Comedy,0.623
+254,Dawn of the Dead,1978,George A. Romero,Horror|Science Fiction,0.623
+255,Guimba the Tyrant,1995,Cheick Oumar Sissoko,Drama|Comedy,0.622
+256,Sanjuro,1962,Akira Kurosawa,Drama|Action|Comedy,0.621
+257,The Hero,2004,Alfonso Arau,War|Drama,0.621
+258,Raging Bull,1980,Martin Scorsese,Drama|History,0.62
+259,Moving,1993,Shinji Sōmai,Drama,0.62
+260,Lost Highway,1997,David Lynch,Drama|Thriller|Mystery,0.619
+261,Keita! The Voice of the Griot,1995,Dani Kouyaté,Fantasy|Drama,0.619
+262,Alien,1979,Ridley Scott,Horror|Science Fiction,0.617
+263,Female Prisoner #701: Scorpion,1972,Shunya Ito,Crime|Thriller|Action,0.617
+264,"Sia, the Myth of the Python",2001,Dani Kouyaté,Drama,0.617
+265,Irma Vep,1996,Olivier Assayas,Comedy|Drama,0.616
+266,Blue Spring,2001,Toshiaki Toyoda,Drama,0.616
+267,Welfare,1975,Frederick Wiseman,Documentary,0.613
+268,Mauvais Sang,1986,Leos Carax,Crime|Science Fiction|Romance,0.612
+269,Mississippi Masala,1991,Mira Nair,Drama|Romance,0.61
+270,Lumumba: Death of a Prophet,1991,Raoul Peck,Documentary,0.61
+271,Come and See,1985,Elem Klimov,Drama|War,0.61
+272,Batang West Side,2001,Lav Diaz,Drama|Crime|Mystery,0.609
+273,Unrest,2022,Cyril Schäublin,Drama|History,0.609
+274,La Belle Noiseuse,1991,Jacques Rivette,Drama,0.609
+275,Life on Earth,1998,Abderrahmane Sissako,Comedy|Drama,0.608
+276,Supermarket Woman,1996,Jūzō Itami,Comedy|Drama,0.606
+277,Dogtooth,2009,Yorgos Lanthimos,Drama,0.606
+278,Possession,1981,Andrzej Żuławski,Horror,0.606
+279,Offside,2006,Mårten Klingberg,Drama|Comedy,0.605
+280,The Time That Remains,2009,Elia Suleiman,Drama|History,0.605
+281,Lilya 4-ever,2002,Lukas Moodysson,Drama|Crime,0.605
+282,"His Motorbike, Her Island",1986,Nobuhiko Obayashi,Romance|Drama,0.605
+283,October,1993,Malik Lakhdar-Hamina,Drama,0.604
+284,Love Streams,1984,John Cassavetes,Drama,0.603
+285,Koyaanisqatsi,1982,Godfrey Reggio,Documentary|Music,0.602
+286,Daughters of the Dust,1991,Julie Dash,Drama|Romance,0.6
+287,The Lovers on the Bridge,1991,Leos Carax,Drama|Romance,0.6
+288,Harakiri,1962,Masaki Kobayashi,Action|Drama|History,0.599
+289,The Player,1992,Robert Altman,Mystery|Drama|Thriller|Comedy|Crime,0.598
+290,Mouchette,1967,Robert Bresson,Drama,0.598
+291,The Thing,1982,John Carpenter,Horror|Mystery|Science Fiction,0.598
+292,"The Cook, the Thief, His Wife & Her Lover",1989,Peter Greenaway,Crime|Drama,0.598
+293,The Great Escape,1963,John Sturges,Adventure|Drama|War,0.597
+294,Diary of a Country Priest,1951,Robert Bresson,Drama,0.597
+295,Neon Genesis Evangelion,1995,Hideaki Anno,Animation|Science Fiction|Documentary,0.597
+296,A Bronx Tale,1993,Robert De Niro,Drama|Crime,0.597
+297,Farewell My Concubine,1993,Chen Kaige,Drama,0.596
+298,Vive L'Amour,1994,Tsai Ming-liang,Drama,0.595
+299,You Will Die at Twenty,2019,Amjad Abu Alala,Drama,0.594
+300,Katanga: The Dance of the Scorpions,2024,Dani Kouyaté,Drama,0.594
+301,Shoah,1985,Claude Lanzmann,Documentary|History,0.593
+302,Eureka,2000,Shinji Aoyama,Drama,0.592
+303,Once Upon a Time in America,1984,Sergio Leone,Drama|Crime,0.592
+304,Night of the Living Dead,1968,George A. Romero,Horror|Thriller|Science Fiction,0.591
+305,Xalé,2022,Moussa Sène Absa,Drama|Thriller,0.59
+306,Dazed and Confused,1993,Richard Linklater,Comedy|Drama,0.589
+307,Humanité,1999,Bruno Dumont,Drama|Mystery,0.589
+308,Halloween,1978,John Carpenter,Horror|Thriller,0.588
+309,A City of Sadness,1989,Hou Hsiao-hsien,Drama|History,0.588
+310,Ghostbusters,1984,Ivan Reitman,Comedy|Fantasy,0.588
+311,Colossal Youth,2006,Pedro Costa,Drama,0.588
+312,Amores Perros,2000,Alejandro G. Iñárritu,Drama|Thriller,0.587
+313,A Man Escaped,1956,Robert Bresson,Drama|Thriller,0.587
+314,Inland Empire,2006,David Lynch,Horror|Thriller|Mystery|Drama|Fantasy,0.587
+315,On the Occasion of Remembering the Turning Gate,2002,Hong Sang-soo,Drama,0.586
+316,Gomorrah,2008,Matteo Garrone,Drama|Crime,0.586
+317,Entranced Earth,1967,Glauber Rocha,Drama,0.586
+318,Banel & Adama,2023,Ramata-Toulaye Sy,Drama,0.586
+319,JFK,1991,Oliver Stone,Drama|Thriller|History,0.585
+320,The King of Comedy,1982,Martin Scorsese,Drama|Comedy,0.585
+321,Seven Samurai,1954,Akira Kurosawa,Action|Drama,0.585
+322,David Lynch Cooks Quinoa,2007,,,0.584
+323,Neon Genesis Evangelion: The End of Evangelion,1997,Hideaki Anno,Animation|Science Fiction|Drama|Fantasy,0.584
+324,Fresh,1994,Boaz Yakin,Crime|Drama|Thriller,0.584
+325,Ninjababy,2021,Yngvild Sve Flikke,Drama|Comedy,0.583
+326,A Few Good Men,1992,Rob Reiner,Drama,0.583
+327,The Professional,1981,Georges Lautner,Action|Adventure|Thriller,0.583
+328,The Hidden Fortress,1958,Akira Kurosawa,Drama|Action|Adventure,0.583
+329,Tokyo Godfathers,2003,Satoshi Kon,Animation|Drama|Comedy,0.583
+330,Eternity and a Day,1998,Theo Angelopoulos,Drama,0.582
+331,Thelma & Louise,1991,Ridley Scott,Drama|Crime|Adventure,0.582
+332,Millennium Mambo,2001,Hou Hsiao-hsien,Drama,0.582
+333,New Jack City,1991,Mario Van Peebles,Thriller|Crime|Drama,0.58
+334,The Tale of Zatoichi,1962,Kenji Misumi,Adventure|Action|Drama,0.58
+335,Youth,2017,Alain Gsponer,Science Fiction|Thriller|Drama,0.58
+336,Le Havre,2011,Aki Kaurismäki,Drama|Comedy,0.579
+337,Saint Louis Blues,2009,Dyana Gaye,Music|Drama,0.579
+338,Genesis,1999,Hideaki Anno,Animation|Science Fiction|Drama|Fantasy,0.579
+339,Werckmeister Harmonies,2000,Béla Tarr,Drama,0.578
+340,Ida,2013,Paweł Pawlikowski,Drama,0.578
+341,"Goodbye, Dragon Inn",2003,Tsai Ming-liang,Drama,0.578
+342,Destiny,1997,Mohamed Camara,Drama|Romance,0.577
+343,Nome,2023,Sana Na N'Hada,Drama|War,0.576
+344,Manhunter,1986,Michael Mann,Crime|Horror|Thriller,0.574
+345,Videodrome,1983,David Cronenberg,Horror|Science Fiction|Mystery,0.573
+346,The Motorcycle Diaries,2004,Walter Salles,Drama,0.573
+347,Juice,1992,Ernest R. Dickerson,Crime|Drama|Thriller,0.572
+348,The Killer,1989,John Woo,Action|Crime|Drama|Thriller,0.572
+349,Samurai Champloo,2004,,,0.572
+350,A Thousand Suns,2013,Mati Diop,Drama|Documentary,0.571
+351,Allah is Not Obliged,2025,Zaven Najjar,Animation|Drama|War,0.571
+352,Wajib,2017,Annemarie Jacir,Drama,0.571
+353,"La Commune (Paris, 1871)",2000,Peter Watkins,War|Drama|History,0.571
+354,Timbuktu,2014,Abderrahmane Sissako,Drama|War,0.57
+355,Drylongso,1998,Cauleen Smith,Drama,0.57
+356,Lumumba,2000,Raoul Peck,Drama|History,0.57
+357,L.A. Confidential,1997,Curtis Hanson,Crime|Mystery|Thriller|Drama,0.569
+358,Goodbye Julia,2023,Mohamed Kordofani,Drama,0.569
+359,Hollywood Shuffle,1987,Robert Townsend,Comedy,0.569
+360,Buddies,1985,"Arthur J. Bressan, Jr.",Drama,0.568
+361,Trenque Lauquen,2022,Laura Citarella,Mystery|Drama|Thriller,0.567
+362,Rebels of the Neon God,1992,Tsai Ming-liang,Drama|Crime,0.567
+363,Bamako,2006,Abderrahmane Sissako,Drama,0.566
+364,Breaking the Waves,1996,Lars von Trier,Drama|Romance,0.566
+365,Magma,2024,Cyprien Vial,Drama,0.566
+366,"No Chains, No Masters",2024,Simon Moutaïrou,Drama|History,0.565
+367,"This Is Not a Burial, It's a Resurrection",2019,Lemohang Jeremiah Mosese,Drama,0.565
+368,Possibly in Michigan,1983,Cecelia Condit,Horror|Music,0.565
+369,Cemetery of Splendor,2015,Apichatpong Weerasethakul,Drama|Fantasy,0.564
+370,"Lingui, the Sacred Bonds",2021,Mahamat-Saleh Haroun,Drama,0.564
+371,Volver,2006,Pedro Almodóvar,Comedy|Drama|Romance,0.563
+372,Heathers,1989,Michael Lehmann,Comedy|Crime,0.563
+373,Phantom of the Paradise,1974,Brian De Palma,Comedy|Horror|Fantasy,0.563
+374,On the Beach at Night Alone,2017,Hong Sang-soo,Drama,0.562
+375,Eve's Bayou,1997,Kasi Lemmons,Drama,0.562
+376,Amadeus,1984,Miloš Forman,History|Music|Drama,0.561
+377,Haru,1996,Yoshimitsu Morita,Drama|Romance,0.561
+378,Before Sunrise,1995,Richard Linklater,Drama|Romance,0.561
+379,"Congo-Océan, un chemin de fer et de sang",2024,Catherine Bernstein,Documentary|History|Drama,0.561
+380,Days,2020,Barbara Białowąs,Romance|Drama,0.561
+381,Paradise Now,2005,Hany Abu-Assad,Crime|Thriller|Drama|War,0.56
+382,Set It Off,1996,F. Gary Gray,Crime|Drama|Thriller|Action|Romance,0.559
+383,The Rapture,2023,Iris Kaltenbäck,Drama,0.558
+384,Persepolis,2007,Vincent Paronnaud,Animation|Drama,0.558
+385,Legends of the Fall,1994,Edward Zwick,Drama|Western|Romance|War,0.558
+386,Happy as Lazzaro,2018,Alice Rohrwacher,Drama|Fantasy,0.558
+387,The Woman with the Knife,1969,Timité Bassori,Drama|Thriller,0.556
+388,Society of the Snow,2023,J. A. Bayona,Drama|History,0.556
+389,Star Wars,1977,George Lucas,Adventure|Action|Science Fiction,0.556
+390,Freda,2021,Gessica Généus,Drama,0.555
+391,Perfect Blue,1997,Satoshi Kon,Animation|Thriller,0.555
+392,Twenty-Four Eyes,1954,Keisuke Kinoshita,Drama,0.554
+393,Ferris Bueller's Day Off,1986,John Hughes,Comedy,0.554
+394,L'Amour fou,1969,Jacques Rivette,Romance|Drama,0.553
+395,Fanon,2024,Jean-Claude Barny,History|Drama,0.552
+396,Scent of a Woman,1992,Martin Brest,Drama,0.55
+397,Compensation,1999,Zeinabu irene Davis,Drama|History|Romance,0.55
+398,3 Idiots,2009,Rajkumar Hirani,Drama|Comedy,0.549
+399,Fear City: A Family-Style Comedy,1994,Alain Berbérian,Comedy,0.549
+400,Donnie Darko,2001,Richard Kelly,Fantasy|Drama|Mystery,0.548
+401,The Bloodiest,2005,Jean-Pierre Bekolo,Thriller|Drama|Science Fiction,0.548
+402,Memoria,2021,Apichatpong Weerasethakul,Drama|Science Fiction|Mystery,0.548
+403,The 36th Chamber of Shaolin,1978,Lau Kar-Leung,Action|Adventure,0.548
+404,Carlito's Way,1993,Brian De Palma,Crime|Drama|Thriller,0.548
+405,The Dinner Game,1998,Francis Veber,Comedy,0.547
+406,The Truth,1960,Henri-Georges Clouzot,Drama|Romance,0.547
+407,Roma,2018,Alfonso Cuarón,Drama,0.546
+408,Wendy and Lucy,2008,Kelly Reichardt,Drama,0.545
+409,La Chimera,2023,Alice Rohrwacher,Drama|Fantasy|Comedy,0.544
+410,Meeting with Pol Pot,2024,Rithy Panh,History|Drama,0.544
+411,Devil in a Blue Dress,1995,Carl Franklin,Thriller|Crime|Mystery,0.543
+412,Lady Bird,2017,Greta Gerwig,Drama|Comedy,0.543
+413,An Elephant Sitting Still,2018,Hu Bo,Drama,0.541
+414,Donnie Brasco,1997,Mike Newell,Crime|Drama|Thriller,0.541
+415,Tie Xi Qu: West of the Tracks,2002,Wang Bing,Documentary,0.539
+416,The Spook Who Sat by the Door,1973,Ivan Dixon,Action|Drama|Crime|War,0.539
+417,Concerning Violence,2014,Göran Olsson,Documentary,0.538
+418,Trainspotting,1996,Danny Boyle,Drama|Crime,0.538
+419,The Sixth Sense,1999,M. Night Shyamalan,Mystery|Thriller|Drama,0.538
+420,Truck Turner,1974,Jonathan Kaplan,Drama|Action|Thriller,0.538
+421,Old Joy,2006,Kelly Reichardt,Drama,0.537
+422,Pat Garrett & Billy the Kid,1973,Sam Peckinpah,Western|Drama|History,0.537
+423,"Jenin, Jenin",2003,Mohammad Bakri,Documentary,0.536
+424,Bird,1988,Clint Eastwood,Drama|Music,0.536
+425,Mystery Train,1989,Jim Jarmusch,Comedy,0.536
+426,Scarecrow,1973,Jerry Schatzberg,Drama,0.536
+427,Gagarine,2020,Fanny Liatard,Drama|Fantasy,0.535
+428,The Human Condition I: No Greater Love,1959,Masaki Kobayashi,War|Drama|History,0.535
+429,To Live and Die in L.A.,1985,William Friedkin,Crime|Thriller|Action,0.535
+430,The Killing of a Chinese Bookie,1976,John Cassavetes,Thriller|Crime|Drama,0.535
+431,The Asadas!,2020,Ryota Nakano,Drama|Comedy,0.534
+432,Mambar Pierrette,2023,Rosine Mbakam,Drama,0.533
+433,Stray Dogs,2013,Tsai Ming-liang,Drama,0.533
+434,A Prophet,2009,Jacques Audiard,Crime|Drama,0.533
+435,Madame Brouette,2002,Moussa Sène Absa,Drama|Romance|Comedy,0.532
+436,"Right Now, Wrong Then",2015,Hong Sang-soo,Drama|Romance,0.532
+437,Battle Royale,2000,Kinji Fukasaku,Drama|Thriller|Action,0.531
+438,Yannick,2023,Quentin Dupieux,Comedy|Drama|Thriller,0.531
+439,Beetlejuice,1988,Tim Burton,Fantasy|Comedy,0.53
+440,Hustle & Flow,2005,Craig Brewer,Crime|Drama|Music,0.53
+441,The Wild Boys,2017,Bertrand Mandico,Drama|Adventure|Fantasy,0.53
+442,Io Capitano,2023,Matteo Garrone,Adventure|Drama,0.529
+443,Dead Ringers,1988,David Cronenberg,Thriller|Horror,0.529
+444,Barbershop,2002,Tim Story,Comedy|Drama,0.528
+445,The Act of Killing,2012,Joshua Oppenheimer,Documentary|History,0.528
+446,Infernal Affairs,2002,Alan Mak Siu-Fai,Drama|Action|Thriller|Crime|Mystery,0.528
+447,A Visit to the Louvre,2004,Danièle Huillet,Documentary,0.527
+448,Ran,1985,Akira Kurosawa,Action|Drama|History,0.526
+449,Argentina 1985,2022,Santiago Mitre,Drama|History|Crime,0.526
+450,Departures,2008,Yojiro Takita,Drama,0.525
+451,Black Is… Black Ain’t,1994,Marlon Riggs,Documentary,0.525
+452,The Taste of Tea,2004,Katsuhito Ishii,Comedy|Drama|Fantasy,0.524
+453,Secret Sunshine,2007,Lee Chang-dong,Drama,0.524
+454,Guess Who's Coming to Dinner,1967,Stanley Kramer,Drama|Romance,0.524
+455,Lucky,2017,John Carroll Lynch,Drama,0.524
+456,Fitzcarraldo,1982,Werner Herzog,Drama|Adventure,0.523
+457,Hotel Rwanda,2004,Terry George,Drama|History|War,0.523
+458,m.A.A.d,2014,Kahlil Joseph,Music|Drama,0.523
+459,The Warriors,1979,Walter Hill,Action|Thriller,0.522
+460,Platform,2000,Jia Zhangke,Drama|History,0.522
+461,The Terminator,1984,James Cameron,Action|Thriller|Science Fiction,0.521
+462,One Night in Miami...,2020,Regina King,Drama,0.521
+463,Ghost Dog: The Way of the Samurai,1999,Jim Jarmusch,Crime|Drama,0.519
+464,Capricorn One,1977,Peter Hyams,Drama|Action|Thriller|Science Fiction,0.518
+465,The Sorrow and the Pity,1969,Joseph Beauregard,Documentary|History|TV Movie,0.518
+466,The Temple Woods Gang,2022,Rabah Ameur-Zaïmeche,Thriller|Drama|Crime,0.518
+467,A Golden Life,2023,Boubacar Sangaré,Documentary,0.517
+468,"So Long, My Son",2019,Wang Xiaoshuai,Drama,0.517
+469,Enter the Dragon,1973,Robert Clouse,Action,0.517
+470,Husbands,1970,John Cassavetes,Comedy|Drama,0.517
+471,Burning,2018,VS Sanoj,,0.517
+472,After Hours,1985,Martin Scorsese,Comedy|Thriller|Drama,0.516
+473,Billy Elliot,2000,Stephen Daldry,Drama|Comedy|Music,0.515
+474,It Was Just an Accident,2025,Jafar Panahi,Drama|Thriller|Crime|Mystery,0.515
+475,Ex Machina,2015,Alex Garland,Drama|Science Fiction,0.515
+476,The Last Black Man in San Francisco,2019,Joe Talbot,Drama,0.515
+477,Still Life,2006,Jia Zhangke,Drama|Romance,0.515
+478,Little Miss Sunshine,2006,Valerie Faris,Comedy|Drama,0.514
+479,Black Christmas,1974,Bob Clark,Horror|Mystery|Crime,0.513
+480,Ash Is Purest White,2018,Jia Zhangke,Crime|Romance|Drama,0.513
+481,Frances Ha,2012,Noah Baumbach,Comedy|Drama,0.513
+482,Claudine,1974,John Berry,Drama|Romance|Comedy,0.513
+483,Skate Kitchen,2018,Crystal Moselle,Drama|Comedy,0.512
+484,2046,2004,Wong Kar-Wai,Drama|Science Fiction|Romance,0.512
+485,Atlantics,2019,Mati Diop,Drama|Romance|Fantasy,0.512
+486,The Zone of Interest,2023,Jonathan Glazer,Drama|History,0.512
+487,Landscape in the Mist,1988,Theo Angelopoulos,Drama,0.512
+488,How to Make Millions Before Grandma Dies,2024,Pat Boonnitipat,Drama,0.512
+489,Hot Boyz,2000,Master P,Action|Crime|Drama,0.512
+490,Les Mathématiques du Roi Heenok,2008,Romain Gavras,Documentary,0.511
+491,Sociology Is a Martial Art,2001,Pierre Carles,Documentary,0.51
+492,Mysterious Skin,2004,Gregg Araki,Drama,0.51
+493,Four Daughters,2023,Kaouther Ben Hania,Documentary|Drama,0.509
+494,An Unfinished Film,2024,Lou Ye,Drama,0.508
+495,The Last Angel of History,1996,John Akomfrah,Documentary|Science Fiction,0.507
+496,Columbus,2017,Kogonada,Drama,0.507
+497,Thanks Boss!,2016,François Ruffin,Comedy|Documentary,0.506
+498,At Berkeley,2013,Frederick Wiseman,Documentary,0.506
+499,Her Love Boils Bathwater,2016,Ryota Nakano,Drama,0.506
+500,Blindspotting,2018,Carlos López Estrada,Comedy|Crime|Drama,0.506
+501,Short Term 12,2013,Destin Daniel Cretton,Drama,0.506
+502,When We Were Kings,1996,Leon Gast,Documentary|TV Movie|History|Music,0.505
+503,A Silent Voice: The Movie,2016,Naoko Yamada,Animation|Drama|Romance,0.505
+504,Chico & Rita,2010,Javier Mariscal,Animation|Music|Romance,0.505
+505,All Hands on Deck!,2020,Guillaume Brac,Comedy,0.505
+506,Hoop Dreams,1994,Steve James,Documentary,0.505
+507,If Beale Street Could Talk,2018,Barry Jenkins,Romance|Drama,0.504
+508,Blue Valentine,2010,Derek Cianfrance,Drama|Romance,0.503
+509,"Onoda: 10,000 Nights in the Jungle",2021,Arthur Harari,Drama|Adventure|War|History,0.502
+510,Selma,2014,Ava DuVernay,History|Drama,0.501
+511,Les Contes du Cockatoo,2020,Rhony Sutriesno,,0.5
+512,Dave Chappelle: Killin' Them Softly,2000,Stan Lathan,Comedy,0.5
+513,Dahomey,2024,Mati Diop,Documentary,0.499
+514,Hard Boiled,1992,John Woo,Action|Thriller|Crime,0.498
+515,Leviathan,2014,George P. Cosmatos,Adventure|Horror|Thriller|Science Fiction,0.498
+516,Bacurau,2019,Juliano Dornelles,Mystery|Western|Thriller,0.498
+517,"I, Daniel Blake",2016,Ken Loach,Drama,0.497
+518,First Cow,2019,Kelly Reichardt,Drama|Western,0.496
+519,That Man from Rio,1964,Philippe de Broca,Adventure|Action|Comedy,0.496
+520,Challengers,2024,Luca Guadagnino,Drama|Romance,0.496
+521,The Father,2020,Florian Zeller,Drama,0.495
+522,Earthlings,2005,Shaun Monson,Documentary,0.495
+523,Moon,2009,Duncan Jones,Science Fiction|Drama,0.495
+524,Loving Vincent,2017,Hugh Welchman,Animation|Drama|History,0.493
+525,Before Sunset,2004,Richard Linklater,Drama|Romance,0.493
+526,Beasts of No Nation,2015,Cary Joji Fukunaga,Drama|War,0.493
+527,My Father's Shadow,2025,Akinola Davies Jr.,Drama,0.492
+528,In Bruges,2008,Martin McDonagh,Comedy|Drama|Crime,0.491
+529,Terminator 2: Judgment Day,1991,James Cameron,Action|Thriller|Science Fiction,0.49
+530,The Truman Show,1998,Peter Weir,Comedy|Drama,0.49
+531,Just a Movement,2021,Vincent Meessen,Documentary,0.489
+532,Paprika,2006,Satoshi Kon,Science Fiction|Thriller|Animation,0.489
+533,The Assassin,2015,Hou Hsiao-hsien,Drama|Action,0.489
+534,The Summit of the Gods,2021,Patrick Imbert,Animation|Adventure|Mystery,0.487
+535,Dreams,1990,Akira Kurosawa,Fantasy|Drama,0.487
+536,The Age of Innocence,1993,Martin Scorsese,Drama|Romance,0.486
+537,Dave Chappelle's Block Party,2005,Michel Gondry,Comedy|Documentary|Music,0.486
+538,(500) Days of Summer,2009,Marc Webb,Comedy|Drama|Romance,0.486
+539,The River is not a Border,2022,Alassane Diago,Documentary,0.485
+540,Sembene!,2015,Jason Silverman,History|Documentary,0.484
+541,Black Mother,2018,Khalik Allah,Documentary,0.483
+542,Bye Bye Tiberias,2023,Lina Soualem,Documentary,0.483
+543,Distant,2002,Makoto Shinkai,Animation|Science Fiction|Romance,0.482
+544,The Imitation Game,2014,Morten Tyldum,History|Drama|Thriller|War,0.482
+545,Simply Black,2020,Jean-Pascal Zadi,Comedy,0.482
+546,Mommy,2014,Xavier Dolan,Drama,0.482
+547,Sleep Has Her House,2017,Scott Barley,Mystery|Horror,0.481
+548,Collateral,2004,Michael Mann,Drama|Crime|Thriller,0.481
+549,Judas and the Black Messiah,2021,Shaka King,Drama|History,0.481
+550,12 Years a Slave,2013,Steve McQueen,Drama|History,0.48
+551,The Iron Claw,2023,Sean Durkin,History|Drama,0.48
+552,Talking About Trees,2019,Suhaib Gasmelbari,Documentary,0.48
+553,The Lord of the Rings: The Return of the King,2003,Peter Jackson,Adventure|Fantasy|Action,0.479
+554,Captain Fantastic,2016,Matt Ross,Adventure|Drama,0.478
+555,Sound of Metal,2019,Darius Marder,Drama|Music,0.478
+556,Dreams Are Colder Than Death,2014,Arthur Jafa,Documentary,0.477
+557,Aliens,1986,James Cameron,Action|Thriller|Science Fiction,0.477
+558,Drive,2011,Nicolas Winding Refn,Drama|Thriller|Crime,0.476
+559,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,Science Fiction|Drama|Romance,0.475
+560,Bab'Aziz,2005,Nacer Khemir,Drama,0.474
+561,Zion,2025,Nelson Foix,Thriller|Action,0.474
+562,Silenced,2011,Hwang Dong-hyuk,Drama,0.474
+563,Midsommar,2019,Ari Aster,Horror|Drama|Mystery,0.473
+564,Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro G. Iñárritu,Drama|Comedy,0.473
+565,Rye Lane,2023,Raine Allen-Miller,Comedy|Romance,0.471
+566,Earth's Greatest Enemy,2025,Abby Martin,Documentary,0.47
+567,The Hate U Give,2018,George Tillman Jr.,Crime|Drama,0.47
+568,Clue,1985,Jonathan Lynn,Comedy|Thriller|Crime|Mystery,0.469
+569,Aftersun,2022,Charlotte Wells,Drama,0.469
+570,Deep Cover,1992,Bill Duke,Action|Thriller|Crime,0.469
+571,A Hidden Life,2019,Terrence Malick,History|Drama|War,0.468
+572,The Florida Project,2017,Sean Baker,Drama,0.468
+573,Black Swan,2010,Darren Aronofsky,Drama|Thriller|Horror,0.467
+574,The Interrupters,2011,Steve James,Documentary,0.467
+575,Nightcrawler,2014,Dan Gilroy,Crime|Drama|Thriller,0.467
+576,Empire of Dust,2011,Bram Van Paesschen,Documentary,0.466
+577,Manchester by the Sea,2016,Kenneth Lonergan,Drama,0.466
+578,Cool Runnings,1993,Jon Turteltaub,Comedy|Adventure|Drama,0.465
+579,Whiplash,2014,Damien Chazelle,Drama|Music|Thriller,0.464
+580,Donald Glover: Weirdo,2012,Shannon Hartman,Comedy,0.464
+581,City of Joy,2016,Madeleine Gavin,Documentary,0.464
+582,Saloum,2021,Jean Luc Herbulot,Horror|Thriller|Fantasy,0.464
+583,Joint Security Area,2000,Park Chan-wook,Drama|Thriller|Action,0.464
+584,Love Exposure,2008,Sion Sono,Action|Comedy|Drama|Romance,0.463
+585,Minding the Gap,2018,Bing Liu,Documentary,0.462
+586,American Gangster,2007,Ridley Scott,Drama|Crime,0.462
+587,Dark Days,2000,Marc Singer,Documentary,0.461
+588,Out of Sight,1998,Steven Soderbergh,Romance|Comedy|Crime,0.461
+589,Salt of This Sea,2008,Annemarie Jacir,Drama|Romance,0.461
+590,Marriage Story,2019,Noah Baumbach,Drama,0.46
+591,One of Them Days,2025,Lawrence Lamont,Comedy,0.46
+592,Gaza Fights for Freedom,2019,Abby Martin,Documentary,0.46
+593,I Am Not Your Negro,2016,Raoul Peck,Documentary,0.459
+594,Field Niggas,2015,Khalik Allah,Documentary,0.459
+595,"Night Is Short, Walk On Girl",2017,Masaaki Yuasa,Comedy|Romance|Animation|Fantasy,0.459
+596,Above the Rim,1994,Jeff Pollack,Crime|Drama|Thriller,0.458
+597,La La Land,2016,Damien Chazelle,Comedy|Drama|Romance,0.458
+598,The Wailing,2016,Na Hong-jin,Horror|Mystery,0.458
+599,I Saw the Devil,2010,Kim Jee-woon,Thriller|Horror,0.457
+600,End of Watch,2012,David Ayer,Crime|Drama|Thriller,0.457
+601,13th,2016,Ava DuVernay,Documentary,0.457
+602,White Men Can't Jump,1992,Ron Shelton,Comedy|Drama,0.455
+603,The Banshees of Inisherin,2022,Martin McDonagh,Drama|Comedy,0.454
+604,Coconut Head Generation,2023,Alain Kassanda,Documentary,0.453
+605,Sidewalk Stories,1989,Charles Lane,Comedy|Drama,0.453
+606,Waiting for Happiness,2002,Abderrahmane Sissako,Drama,0.451
+607,Natural Born Killers,1994,Oliver Stone,Crime|Thriller|Drama,0.451
+608,LA 92,2017,T.J. Martin,History|Documentary,0.45
+609,Fat Girl,2001,Catherine Breillat,Drama,0.45
+610,Ocean's Eleven,2001,Steven Soderbergh,Thriller|Crime,0.449
+611,Entergalactic,2022,Fletcher Moules,Animation|Romance|Music,0.449
+612,Trouble Sleep,2020,Alain Kassanda,Documentary,0.449
+613,Knives Out,2019,Rian Johnson,Comedy|Crime|Mystery,0.449
+614,The Name of the Rose,1986,Jean-Jacques Annaud,Drama|Thriller|Mystery,0.448
+615,Creed,2015,Ryan Coogler,Drama,0.447
+616,Cowboy Bebop,1998,Shinichiro Watanabe,Action|Animation|Science Fiction,0.446
+617,RoboCop,1987,Paul Verhoeven,Action|Thriller|Science Fiction,0.446
+618,Poetic Justice,1993,John Singleton,Drama|Romance,0.446
+619,20th Century Girl,2022,Bang Woo-ri,Romance|Drama,0.445
+620,Sorry to Bother You,2018,Boots Riley,Fantasy|Science Fiction|Comedy,0.444
+621,Hereditary,2018,Ari Aster,Horror|Mystery|Thriller,0.443
+622,Sidewalls,2011,Gustavo Taretto,Drama|Romance,0.443
+623,Asterix & Obelix: Mission Cleopatra,2002,Alain Chabat,Family|Fantasy|Comedy|Adventure,0.443
+624,Fire of Love,2022,Sara Dosa,Documentary,0.442
+625,Seconds,1966,John Frankenheimer,Science Fiction|Thriller|Horror,0.44
+626,Mother,2009,Tracey Moffatt,Documentary,0.439
+627,Requiem for a Dream,2000,Darren Aronofsky,Crime|Drama,0.438
+628,Zootopia,2016,Byron Howard,Animation|Adventure|Family|Comedy,0.438
+629,Twin Peaks: The Return,2017,Jason S.,Documentary,0.438
+630,Noriko's Dinner Table,2005,Sion Sono,Drama|Horror,0.435
+631,Zootopia 2,2025,Jared Bush,Animation|Family|Mystery|Adventure|Comedy,0.435
+632,RRR,2022,S. S. Rajamouli,Action|Adventure|Drama,0.434
+633,The Lord of the Rings: The Two Towers,2002,Peter Jackson,Adventure|Fantasy|Action,0.432
+634,Amy,2015,Asif Kapadia,Documentary|Music,0.432
+635,The Daytrippers,1996,Greg Mottola,Comedy|Drama,0.432
+636,Gummo,1997,Harmony Korine,Drama|Comedy,0.431
+637,Omar Killed Me,2011,Roschdy Zem,Drama|Thriller,0.43
+638,The Count of Monte Cristo,2024,Alexandre de La Patellière,Adventure|Action|Drama,0.427
+639,Runaway,2010,Ye,Music|Fantasy|Romance,0.427
+640,Belly,1998,Hype Williams,Crime|Drama,0.427
+641,Paper Soldiers,2002,Damon Dash,Action|Comedy,0.426
+642,Father & Soldier,2022,Mathieu Vadepied,War|Drama|History,0.425
+643,The Legend of 1900,1998,Giuseppe Tornatore,Drama|Music,0.424
+644,Nowhere,1997,Gregg Araki,Comedy|Drama|Science Fiction,0.424
+645,The Thin Red Line,1998,Terrence Malick,Drama|History|War,0.424
+646,No Other Choice,2025,Park Chan-wook,Comedy|Crime|Thriller,0.423
+647,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,Animation|Action|Adventure|Science Fiction,0.422
+648,The River,1997,Tsai Ming-liang,Drama|Romance,0.42
+649,Night on Earth,1991,Jim Jarmusch,Comedy|Drama,0.419
+650,Pearl,2022,Ti West,Horror|Thriller,0.418
+651,Crash,1996,David Cronenberg,Thriller|Drama,0.418
+652,Killers of the Flower Moon,2023,Martin Scorsese,Crime|History|Drama,0.416
+653,State Property: Blood on the Streets,2005,Damon Dash,Crime|Action|Drama,0.415
+654,Lan Yu,2001,Stanley Kwan Kam-Pang,Drama|Romance,0.412
+655,Decision to Leave,2022,Park Chan-wook,Thriller|Mystery|Romance,0.411
+656,Wake Up Dead Man,2025,Rian Johnson,Thriller|Mystery|Comedy,0.411
+657,The Menu,2022,Mark Mylod,Comedy|Horror,0.407
+658,The Prince of Egypt,1998,Brenda Chapman,Adventure|Animation|Drama|Family,0.407
+659,X,2022,Ti West,Horror|Thriller,0.406
+660,Shottas,2002,Cess Silvera,Action|Adventure|Crime|Drama,0.403
+661,Black Dynamite,2009,Scott Sanders,Comedy|Action,0.402
+662,Zodiac,2007,David Fincher,Crime|Mystery|Thriller,0.394
+663,The Annihilation of Fish,1999,Charles Burnett,Drama|Romance|Comedy,0.392
+664,Children of Men,2006,Alfonso Cuarón,Science Fiction|Thriller|Action,0.387
+665,Babylon,2022,Damien Chazelle,Drama|Comedy,0.386
+666,Vampire Hunter D: Bloodlust,2000,Yoshiaki Kawajiri,Animation|Fantasy|Horror|Action|Adventure|Science Fiction,0.386
+667,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,Comedy|War,0.386
+668,Remember the Titans,2000,Boaz Yakin,Drama,0.385
+669,Captain Phillips,2013,Paul Greengrass,Action|Drama|Thriller,0.385
+670,Johnny Mnemonic,1995,Robert Longo,Science Fiction|Action|Adventure,0.384
+671,Poor Things,2023,Yorgos Lanthimos,Science Fiction|Romance|Comedy,0.384
+672,Monkey Man,2024,Dev Patel,Action|Thriller,0.38
+673,ATL,2006,Chris Robinson,Drama|Comedy,0.38
+674,Love Jones,1997,Theodore Witcher,Comedy|Drama|Romance,0.379
+675,Lady Vengeance,2005,Park Chan-wook,Drama|Thriller,0.375
+676,Baby Boy,2001,John Singleton,Crime|Drama|Romance|Thriller,0.375
+677,Wings of Desire,1987,Wim Wenders,Drama|Fantasy|Romance,0.374
+678,Gone Girl,2014,David Fincher,Mystery|Thriller|Drama,0.372
+679,Fear and Loathing in Las Vegas,1998,Terry Gilliam,Adventure|Drama|Comedy,0.371
+680,Mad Max: Fury Road,2015,George Miller,Action|Adventure|Science Fiction,0.371
+681,La Vie en Rose,2007,Olivier Dahan,Music|Drama,0.368
+682,Summer Palace,2006,Lou Ye,Drama|Romance,0.364
+683,Coach Carter,2005,Thomas Carter,Drama|History,0.361
+684,The Assassination of Jesse James by the Coward Robert Ford,2007,Andrew Dominik,Drama|Western,0.361
+685,The Wash,2001,DJ Pooh,Action|Comedy,0.358
+686,Dogville,2003,Lars von Trier,Crime|Drama|Thriller,0.358
+687,"Synecdoche, New York",2008,Charlie Kaufman,Drama,0.357
+688,Star Trek,2009,J.J. Abrams,Science Fiction|Action|Adventure,0.356
+689,A Beautiful Mind,2001,Ron Howard,Drama|Romance,0.354
+690,Scream,1996,Wes Craven,Crime|Horror|Mystery,0.352
+691,Train to Busan,2016,Yeon Sang-ho,Horror|Thriller|Action|Adventure,0.347
+692,Meet Joe Black,1998,Martin Brest,Fantasy|Drama|Romance,0.346
+693,Life,1999,Ted Demme,Comedy|Crime,0.346
+694,American Psycho,2000,Mary Harron,Thriller|Drama|Crime,0.345
+695,Starship Troopers,1997,Paul Verhoeven,Adventure|Action|Thriller|Science Fiction,0.344
+696,Miami Vice,2006,Michael Mann,Action|Crime|Thriller,0.342
+697,Jaws,1975,Steven Spielberg,Horror|Thriller|Adventure,0.341
+698,Surf's Up,2007,Ash Brannon,Animation|Comedy|Family,0.338
+699,Everything Everywhere All at Once,2022,Daniel Scheinert,Action|Adventure|Science Fiction,0.335
+700,John Wick,2014,Chad Stahelski,Action|Thriller,0.335
+701,A Clockwork Orange,1971,Stanley Kubrick,Science Fiction|Crime,0.331
+702,Sinners,2025,Ryan Coogler,Horror|Action|Thriller,0.329
+703,Casino,1995,Martin Scorsese,Crime|Drama,0.322
+704,V for Vendetta,2005,James McTeigue,Action|Thriller|Science Fiction,0.313
+705,Man on Fire,2004,Tony Scott,Action|Drama|Thriller,0.31
+706,My Own Private Idaho,1991,Gus Van Sant,Drama,0.308
+707,Jennifer's Body,2009,Karyn Kusama,Horror|Comedy,0.307
+708,The White Ribbon,2009,Michael Haneke,Drama|Mystery,0.295
+709,35 Shots of Rum,2008,Claire Denis,Drama,0.287
+710,Southland Tales,2006,Richard Kelly,Science Fiction|Thriller|Comedy,0.281
+711,Shutter Island,2010,Martin Scorsese,Drama|Thriller|Mystery,0.277
+712,Chocolat,1988,Claire Denis,Drama,0.271
+713,Tokyo Sonata,2008,Kiyoshi Kurosawa,Drama,0.269
+714,Caché,2005,Michael Haneke,Mystery|Drama|Thriller,0.256
+715,White Material,2009,Claire Denis,Drama,0.255
+716,The Raid,2011,Steven Spielberg,Adventure|Action,0.242
+717,A Bride for Rip Van Winkle,2016,Shunji Iwai,Drama|Romance,0.241
+718,Les Sénégalaises et la Sénégauloise,2007,Alice Diop,Documentary,0.234
+719,Jurassic Park,1993,Steven Spielberg,Adventure|Science Fiction,0.23
+720,The Royal Tenenbaums,2001,Wes Anderson,Comedy|Drama,0.224
+721,Pulse,2001,Kiyoshi Kurosawa,Horror|Thriller|Mystery,0.219
+722,Rushmore,1998,Wes Anderson,Comedy|Drama,0.217
+723,Moonrise Kingdom,2012,Wes Anderson,Comedy|Drama|Romance,0.204
+724,Arrival,2016,Denis Villeneuve,Drama|Science Fiction|Mystery,0.2
+725,Materialists,2025,Celine Song,Romance|Drama,0.183
+726,"The French Dispatch of the Liberty, Kansas Evening Sun",2021,Wes Anderson,Drama|Comedy,0.18
+727,The Fabelmans,2022,Steven Spielberg,Drama,0.177
+728,No Country for Old Men,2007,Joel Coen,Crime|Thriller|Western,0.172
+729,The Lego Movie,2014,Phil Lord,Animation|Family|Adventure|Comedy|Fantasy,0.162
+730,The Darjeeling Limited,2007,Wes Anderson,Adventure|Drama|Comedy,0.158
+731,A.I. Artificial Intelligence,2001,Steven Spielberg,Drama|Science Fiction|Adventure,0.147
+732,Minority Report,2002,Steven Spielberg,Science Fiction|Action|Thriller,0.133
